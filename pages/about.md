@@ -1,4 +1,4 @@
----
+`---
 title: About
 layout: about
 permalink: /about.html
@@ -14,14 +14,11 @@ credits: true
 
 ## About the Collection
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+Sneakers are more than just footwear—they are statements of culture, creativity, and personal expression. My Favorite Sneakers: A Personal Style Archive showcases five pairs that reflect my individual taste and passion for sneaker design. From the sleek patent leather of the Jordan 11 “Cool Grey” to the bold anatomy-inspired lines of the Nike Air Max 95, each pair tells its own story of innovation, comfort, and cultural impact.
 
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
+This collection highlights a mix of classic silhouettes and modern releases, celebrating the artistry behind these designs and the vision of the creatives who brought them to life. Whether intended for the basketball court, running track, or everyday streetwear, these sneakers stand at the intersection of fashion and function.
 
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
-
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
+Through carefully selected metadata and high-quality images, this collection invites sneaker enthusiasts, collectors, and casual admirers to explore the unique features that make each pair special. Thank you for stepping into my world of sneakers—I hope this archive inspires your own appreciation for the stories our shoes can tell.
 
 <!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
 {% include cb/about_the_about.md %} 
