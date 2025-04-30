@@ -1,6 +1,0 @@
-objectid,file_name,name,color,release_date,retail_price,category,sku,description,format,object_location
-snkr_001,Jordan 11 Cool Grey,Jordan 11 “Cool Grey”,Cool Grey/White,12/11/2021,$225 ,basketball,CT8012-005,A beloved retro release featuring patent leather and a sleek mid-cut design.,image/jpeg,/objects/jordan11_coolgrey.jpg
-snkr_002,Nike Air Max 95,Nike Air Max 95,Neon/Black/Volt,"1995 (OG), reissued various years",$175 ,lifestyle,609048-072,"Inspired by human anatomy, this classic introduced forefoot air units to the Air Max line.",image/jpeg,/objects/airmax95_neon.jpg
-snkr_003,Nike Air Huarache Dark Beetroot,Nike Air Huarache “Dark Beetroot”,Bordeaux/Sail,2/22/2022,$110 ,running,DQ8584-600,"A modern twist on a 90s icon known for its snug, sock-like fit.",image/jpeg,/objects/huarache_darkbeetroot.jpg
-snkr_004,Nike Field General,Nike Field General,White/Black,2024,$150 ,training,FJ2685-100,A new take on the classic football trainer with a clean retro look.,image/jpeg,/objects/fieldgeneral_whiteblack.jpg
-snkr_005,Nike Dunk High Next Nature,Nike Dunk High Next Nature,Brown/White,2021,$125 ,lifestyle ,DN9909-100,A sustainable version of the popular Dunk silhouette made from recycled materials.,image/jpeg,/objects/dunkhigh_nextnature.jpg
